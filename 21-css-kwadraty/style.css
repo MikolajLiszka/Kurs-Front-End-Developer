@@ -1,0 +1,17 @@
+main {
+    background-color: #808080;
+    padding-bottom: 20px;
+}
+
+h1 {
+    color: aliceblue;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+div {
+    background-color: #fea500;
+    width: 200px;
+    height: 200px;
+    margin: 15px;
+}
