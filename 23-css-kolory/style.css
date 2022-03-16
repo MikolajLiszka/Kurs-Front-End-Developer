@@ -1,0 +1,20 @@
+body {
+    background-color: #faebd6;
+}
+
+h1 {
+    font-size: 50px;
+    color: #ff0000;
+}
+
+.first {
+    color: #a42423;
+}
+
+.second {
+    color: #00008f;
+}
+
+p {
+    font-size: 35px;
+}
