@@ -1,0 +1,28 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    background-color: darkblue;
+    color: antiquewhite;
+}
+
+h2 {
+    background-color: aqua;
+    color: brown;
+}
+
+section p {
+    background-color: azure;
+    color: crimson;
+}
+
+article p {
+    background-color: aquamarine;
+    color: deeppink;
+}
+
+ul {
+    background-color: cornflowerblue;
+    color: blueviolet;
+}
